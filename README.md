@@ -11,7 +11,7 @@ AI engineer with 8+ years of experience building production NLP systems, LLM-pow
 
 Currently leading AI initiatives at [Spotzer Digital](https://www.spotzerdigital.com/), where I architect end-to-end solutions spanning LLM orchestration, vector search, and full-stack web applications.
 
-> **Looking for my full CV?** Download it here: [`CanDeveci-CV.pdf`](./CanDeveci-CV.pdf)
+> **Looking for my full resume?** Download it here: [`CanDeveci-Resume.md`](./Resume/CanDeveci-Resume.md)
 
 ---
 
