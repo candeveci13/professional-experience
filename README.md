@@ -71,15 +71,15 @@ Designed and shipped NLP solutions for enterprise conversational AI products:
 
 | Domain | Technologies |
 |---|---|
-| **LLM & AI Frameworks** | LangChain, LangGraph, LiteLLM, DSPy, LlamaIndex, Ollama, DeepSeek |
+| **LLM & AI Frameworks** | LangChain, LangGraph, CrewAI, PydanticAI, LiteLLM, DSPy, LlamaIndex, Ollama, DeepSeek |
 | **NLP & ML** | PyTorch, Hugging Face Transformers, BERT, RoBERTa, T5, BART, Sentence Transformers |
 | **Vector Databases** | Milvus, Pinecone |
-| **LLM APIs** | OpenAI (GPT-4o, o1-mini), Anthropic Claude, Weights & Biases |
+| **LLM APIs & Agentic Tools** | OpenAI (GPT-4o, o1-mini), Anthropic Claude, Claude Code, Codex, Cursor, Claude Skills, MCPs, Hermes Agent, OpenClaw, claude-mem, claude-context, Weights & Biases |
 | **Languages** | Python (7+ yrs), JavaScript/TypeScript, C#, SQL, Bash |
 | **Web & Frontend** | Next.js, React (Redux, Context API), Node.js, FastAPI |
-| **Cloud & DevOps** | AWS (Lambda, ECS, ECR, EC2, DynamoDB, Route 53, CloudFormation), Docker, Terraform |
-| **CI/CD & Tools** | Azure DevOps, GitHub Actions, Gitflow |
-| **Databases** | DynamoDB, MSSQL, Redis, Elasticsearch |
+| **Cloud & DevOps** | AWS (Lambda, ECS, ECR, EC2, DynamoDB, Route 53, CloudFormation), Hetzner Cloud, Fly.io, Supabase, Docker, Terraform |
+| **CI/CD & Tools** | Azure DevOps, GitHub Actions, Gitflow, Tmux, Raspberry Pi, Namecheap, Google Search Console |
+| **Databases & Search** | DynamoDB, MSSQL, Redis, Elasticsearch, Semantic Code Search |
 | **Monitoring** | CloudWatch, Prometheus/Grafana, Sentry |
 | **Testing** | PyTest, NUnit, Jest, Selenium, Locust |
 
@@ -182,7 +182,7 @@ Designed and shipped NLP solutions for enterprise conversational AI products:
 
 I'm a continuous learner. Here are areas I'm currently exploring and deepening:
 
-- **Agentic AI** — Multi-agent systems, tool use, and autonomous workflows (LangGraph, CrewAI, Claude Agent SDK)
+- **Agentic AI** — Multi-agent systems, tool use, and autonomous workflows (LangGraph, CrewAI, PydanticAI, Claude Code, Codex)
 - **Advanced RAG** — Query decomposition, hybrid search, re-ranking strategies, and evaluation frameworks (RAGAS)
 - **Fine-tuning LLMs** — LoRA, QLoRA, PEFT techniques for domain-specific model adaptation
 - **MLOps** — Model serving, A/B testing, monitoring in production (MLflow, BentoML)

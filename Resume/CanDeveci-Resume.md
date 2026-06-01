@@ -24,7 +24,7 @@
 - Integrated **AWS Lambda**, **ECS**, **ECR**, **Load Balancers**, **DynamoDB**, and **OpenAI APIs**.  
 - Specialized in **Vector Databases** (*Milvus*), **Docker**, and AI frameworks (*LangChain, LiteLLM, DeepSeek, Ollama*).  
 - Built responsive **front-end applications** using **Next.js**, **React**, and **Clerk**.  
-- Streamlined workflows with **Gitflow**, **Cursor**, **Windsurf**, **Claude Code**, **Codex**, **MCPs**, and reusable **skills**.  
+- Streamlined workflows with **Gitflow**, **Cursor**, **Windsurf**, **Claude Code**, **Codex**, **MCPs**, **Hermes Agent**, **OpenClaw**, **claude-mem**, **claude-context**, and reusable **Claude Skills**.  
 - Managed full development cycles (**Agile/Scrum**) with tools like **Jira**, including **code reviews**, **CI/CD pipelines** **(*Azure DevOps*)**, and **pair programming** sessions. 
 
 **NLP Engineer**  
@@ -47,8 +47,8 @@
 ## **Skills**  
 
 **AI & NLP Expertise**:  
-- **Framework Mastery**: **LangChain**, **LiteLLM**, **DeepSeek**, **Ollama**, **DSPy**, **Hugging Face Transformers**, **PyTorch**  
-- **Advanced Techniques**: **Semantic search**, **RAG (Retrieval-Augmented Generation)**, **web scraping** (*BeautifulSoup, Scrapy*), **automated content generation** (*GPT-4o, o1-mini, Claude*)  
+- **Framework Mastery**: **LangChain**, **LangGraph**, **CrewAI**, **PydanticAI**, **LiteLLM**, **DeepSeek**, **Ollama**, **DSPy**, **Hugging Face Transformers**, **PyTorch**  
+- **Advanced Techniques**: **Agentic AI**, **agentic coding**, **Semantic Code Search**, **semantic search**, **RAG (Retrieval-Augmented Generation)**, **web scraping** (*BeautifulSoup, Scrapy*), **automated content generation** (*GPT-4o, o1-mini, Claude*)  
 - **Specialized Systems**: **Vector databases** (**Milvus**, **Pinecone**), **sentiment analysis** (*BERT, RoBERTa*, and many more), **intent detection**, **text summarization** (*T5, BART*)  
 
 **Software Development**:  
@@ -60,13 +60,14 @@
 
 **Cloud & Infrastructure**:  
 - **AWS**: **Lambda** (*serverless*), **ECR/ECS** (*container orchestration*), **EC2**, **Load Balancers**, **Route 53**, **CloudFormation**, **40% cost optimization**  
+- **Platforms & Hosting**: **Hetzner Cloud**, **Fly.io**, **Supabase**, **Namecheap**, **Google Search Console**, **Raspberry Pi**  
 - **Monitoring**: **CloudWatch**, **Prometheus/Grafana**, **Sentry** (*error tracking*)  
 
 **Technologies & Tools**:  
 - **Languages**: **Python with 7 years of experience** , (*NumPy, Pandas*), **JavaScript/TypeScript**, **Node.js**, **C#**, **SQL**, **Bash**  
 - **APIs & Auth**: **RESTful APIs**, **GraphQL**, **Clerk** (*authentication*), **OAuth 2.0**  
 - **AI/ML Stack**: **OpenAI API**, **Anthropic Claude**, **LlamaIndex**, **Weights & Biases** (*experiment tracking*)  
-- **Workflow Tools**: **Jira** (*Agile/Scrum*), **Windsurf**, **Cursor**, **Claude Code**, **Codex** (*AI-assisted coding*), **MCPs**, **skills**, **Confluence**  
+- **Workflow Tools**: **Jira** (*Agile/Scrum*), **Windsurf**, **Cursor**, **Claude Code**, **Codex** (*AI-assisted coding*), **MCPs**, **Hermes Agent**, **OpenClaw**, **claude-mem**, **claude-context**, **Claude Skills**, **Tmux**, **Confluence**  
 ---  
 
 </br>
