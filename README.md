@@ -1,29 +1,40 @@
 # Can Deveci
 
 **Lead AI Engineer** | Amsterdam, Netherlands
+Open to new opportunities · Permanent EU work authorization (no sponsorship required)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/can-deveci/)
 [![Email](https://img.shields.io/badge/Email-can.deveci%40icloud.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:can.deveci@icloud.com)
 
 ---
 
-AI engineer with 8+ years of experience building production NLP systems, LLM-powered applications, and scalable cloud infrastructure. I specialize in turning research into real products — from retrieval-augmented generation pipelines to context-aware content systems that save six figures annually.
+I build production LLM and NLP systems — the kind that go from research idea to something running in front of real users and real cost lines. Currently leading AI engineering at [Spotzer Digital](https://www.spotzerdigital.com/), where I own everything from RAG pipeline design to the AWS bill it runs on.
 
-Currently leading AI initiatives at [Spotzer Digital](https://www.spotzerdigital.com/), where I architect end-to-end solutions spanning LLM orchestration, vector search, and full-stack web applications.
-
-> **Looking for my full resume?** Download it here: [`CanDeveci-Resume.pdf`](./Resume/CanDeveci-Resume.pdf)
+> **Full resume:** [`CanDeveci-Resume.pdf`](./Resume/CanDeveci-Resume.pdf)
 
 ---
 
-## Table of Contents
+## Impact at a glance
 
-- [Experience](#experience)
-- [Technical Skills](#technical-skills)
-- [Key Projects](#key-projects)
-- [Education & Research](#education--research)
-- [Certifications & Courses](#certifications--courses)
-- [Publications](#publications)
-- [What I'm Learning](#what-im-learning)
+- **~$120K/year in content costs eliminated** — replaced manual/agency-produced website copy with an LLM content pipeline across the client site portfolio. → [case study](./case-studies/context-aware-content-generation.md)
+- **~40% lower monthly AWS spend** — measured on the compute bill before/after migrating from EC2-based hosting to serverless (Lambda) and containerized (ECS) infrastructure.
+- **Master's thesis retrieval system** outperformed larger general-purpose models with a smaller, task-specific architecture. → [case study](./case-studies/response-retrieval-reranking.md)
+
+---
+
+## Selected work
+
+**[Context-aware website content generation](./case-studies/context-aware-content-generation.md)** — RAG pipeline combining business metadata, industry context, and competitor analysis to generate SEO-ready copy, wired into the company CMS for automated publishing.
+`Python · LangChain · OpenAI API · Milvus · AWS Lambda · DynamoDB`
+
+**[Response retrieval & re-ranking](./case-studies/response-retrieval-reranking.md)** *(Master's thesis)* — Two-stage conversational retrieval: fast TF-IDF candidate generation followed by Cross-Encoder re-ranking, extended to open-domain QA without task-specific fine-tuning.
+`Python · PyTorch · Hugging Face Transformers · Cross-Encoders`
+
+**AI-powered social content pipeline** — End-to-end generation, moderation, and scheduled publishing for social media content, with brand-voice consistency checks before anything goes out.
+`Python · GPT-4o · Claude · FastAPI · Next.js`
+
+**Ad taxonomy & business category classification** — ML classification mapping businesses to advertising categories at platform scale.
+`Python · PyTorch`
 
 ---
 
@@ -32,36 +43,29 @@ Currently leading AI initiatives at [Spotzer Digital](https://www.spotzerdigital
 ### Lead AI Engineer — Spotzer Digital
 *March 2021 – Present | Amsterdam, Netherlands*
 
-Leading the design and delivery of AI-driven products across the company's digital marketing platform:
-
-- **Context-aware Website Content Generation** — Built an LLM-powered system that generates tailored website content based on business context, resulting in **~$120K/year in savings**
-- **AI-powered Social Post Creation** — End-to-end pipeline for generating, reviewing, and publishing social media content using GPT-4o and Claude
-- **Automated Web Scraping & Data Extraction** — Scalable scraping infrastructure for competitive intelligence and content sourcing
-- **Ad Taxonomy Translation & Business Category Detection** — ML classification systems for mapping businesses to advertising categories
-- **Cloud Cost Optimization** — Redesigned infrastructure on AWS (Lambda, ECS, ECR, DynamoDB), achieving **40% cost reduction**
-- **Full-stack Applications** — Built internal tools and customer-facing apps with Next.js, React, and Clerk authentication
+- Own the company's LLM and NLP roadmap end to end: RAG pipelines, agentic content workflows, and the classification systems behind ad targeting
+- Redesigned AWS infrastructure (Lambda, ECS, ECR, DynamoDB), cutting monthly compute spend by ~40%
+- Built and shipped internal tools and customer-facing apps with Next.js, React, and Clerk auth
+- Set technical direction across LLM orchestration, vector search, and the infra it all runs on
 
 **Stack:** Python, LangChain, LiteLLM, Milvus, OpenAI API, AWS (Lambda, ECS, ECR, DynamoDB, CloudWatch), Docker, Next.js, React, Azure DevOps
 
 ### NLP Engineer — Sestek
 *October 2018 – February 2021 | Istanbul, Turkey*
 
-Designed and shipped NLP solutions for enterprise conversational AI products:
-
-- **Sentiment Analysis** — Built production classifiers using BERT and RoBERTa for customer interaction analysis
-- **Intent Detection** — Developed intent classification models for banking and telecom, including work on agglutinative languages (Turkish)
-- **Text Summarization & Translation** — Implemented T5/BART-based summarization and neural machine translation systems
-- **Embedding Evaluation** — Benchmarked embedding techniques that informed product roadmap decisions
+- Built production sentiment classifiers (BERT, RoBERTa) for customer interaction analysis
+- Developed intent classification for banking and telecom, including agglutinative-language handling (Turkish) — later published research, see [Education & Research](#education--research)
+- Implemented T5/BART-based summarization and neural machine translation
+- Benchmarked embedding techniques that fed directly into product roadmap decisions
 
 **Stack:** Python, PyTorch, Hugging Face Transformers, BERT, RoBERTa, T5, BART
 
 ### Full Stack Developer — Sestek
 *December 2017 – September 2018 | Istanbul, Turkey*
 
-- Built an intent detection web tool for banking and telecom using .NET MVC, JavaScript, and Node.js
-- Developed RESTful APIs with .NET Core, Entity Framework, and React.js
-- Optimized MSSQL databases through query tuning and indexing
-- Implemented unit testing (NUnit) and integration testing (Selenium), achieving **70% test coverage**
+- Built an intent-detection web tool for banking and telecom (.NET MVC, JavaScript, Node.js)
+- Developed RESTful APIs with .NET Core, Entity Framework, and React.js; tuned MSSQL queries and indexing
+- Implemented unit (NUnit) and integration (Selenium) testing, reaching 70% test coverage
 
 **Stack:** C#, .NET Core, Entity Framework, React.js, JavaScript, Node.js, MSSQL, NUnit, Selenium
 
@@ -69,140 +73,47 @@ Designed and shipped NLP solutions for enterprise conversational AI products:
 
 ## Technical Skills
 
-| Domain | Technologies |
+Grouped by how deep the experience actually goes — not everything I've touched, just what I can be interviewed on.
+
+| Depth | Technologies |
 |---|---|
-| **LLM & AI Frameworks** | LangChain, LangGraph, CrewAI, PydanticAI, LiteLLM, DSPy, LlamaIndex, Ollama, DeepSeek |
-| **NLP & ML** | PyTorch, Hugging Face Transformers, BERT, RoBERTa, T5, BART, Sentence Transformers |
-| **Vector Databases** | Milvus, Pinecone |
-| **LLM APIs & Agentic Tools** | OpenAI (GPT-4o, o1-mini), Anthropic Claude, Claude Code, Codex, Cursor, Claude Skills, MCPs, Hermes Agent, OpenClaw, claude-mem, claude-context, Weights & Biases |
-| **Languages** | Python (7+ yrs), JavaScript/TypeScript, C#, SQL, Bash |
-| **Web & Frontend** | Next.js, React (Redux, Context API), Node.js, FastAPI |
-| **Cloud & DevOps** | AWS (Lambda, ECS, ECR, EC2, DynamoDB, Route 53, CloudFormation), Hetzner Cloud, Fly.io, Supabase, Docker, Terraform |
-| **CI/CD & Tools** | Azure DevOps, GitHub Actions, Gitflow, Tmux, Raspberry Pi, Namecheap, Google Search Console |
-| **Databases & Search** | DynamoDB, MSSQL, Redis, Elasticsearch, Semantic Code Search |
-| **Monitoring** | CloudWatch, Prometheus/Grafana, Sentry |
-| **Testing** | PyTest, NUnit, Jest, Selenium, Locust |
+| **Core, daily use** | Python, LangChain / LangGraph, PyTorch, Hugging Face Transformers, OpenAI & Anthropic APIs, Milvus, AWS (Lambda, ECS, ECR, DynamoDB), Docker |
+| **Production experience** | FastAPI, Next.js, React, PostgreSQL/MSSQL, Redis, Elasticsearch, Terraform, PyTest, CloudWatch |
+| **NLP fundamentals** | BERT, RoBERTa, T5/BART, sentence embeddings, TF-IDF, cross-encoder re-ranking |
+| **Applied, less deep** | CrewAI, PydanticAI, DSPy, LlamaIndex, Pinecone, GitHub Actions, Sentry |
+| **Day-to-day agentic tooling** | Claude Code, Cursor, MCP-based workflows — used daily for engineering, not the subject of my expertise |
 
----
-
-## Key Projects
-
-### Context-aware Website Content Generation
-> Generating tailored, SEO-optimized website content using LLMs with business context awareness
-
-- Designed a RAG pipeline that combines business metadata, industry context, and competitor analysis to generate high-quality website copy
-- Integrated with the company's CMS for automated publishing workflows
-- Impact: **~$120K annual cost savings** by reducing manual content creation
-
-**Tech:** Python, LangChain, OpenAI API, Milvus, AWS Lambda, DynamoDB
-
----
-
-### Response Retrieval & Re-ranking System *(Master's Thesis)*
-> State-of-the-art conversational response retrieval using TF-IDF + Cross-Encoder re-ranking
-
-- Built a two-stage retrieval pipeline: fast TF-IDF candidate retrieval followed by Cross-Encoder neural re-ranking
-- Demonstrated that smaller, task-specific transformer models outperform larger general-purpose models in retrieval tasks
-- Extended the system for open-domain Question Answering without task-specific fine-tuning
-
-**Tech:** Python, PyTorch, Hugging Face Transformers, Cross-Encoders, TF-IDF
-
----
-
-### Intent Classification for Agglutinative Languages *(Published Research)*
-> NLP approach for intent detection in morphologically rich languages like Turkish
-
-- Developed intent classification techniques optimized for short sentences in agglutinative languages
-- Addressed the unique challenges of word segmentation and morphological complexity
-- Published: *Intent Classification with Short Sentences in Agglutinative Languages* (2020)
-
-**Tech:** Python, PyTorch, BERT, NLP
-
----
-
-### AI-powered Social Media Content Pipeline
-> End-to-end system for generating, moderating, and scheduling social media posts
-
-- LLM-based content generation with brand voice consistency
-- Automated content moderation and quality scoring
-- Integration with social media APIs for scheduled publishing
-
-**Tech:** Python, GPT-4o, Claude, FastAPI, Next.js, React
-
----
-
-### Cloud Infrastructure Optimization
-> Redesigning AWS infrastructure for cost efficiency and scalability
-
-- Migrated workloads to serverless (Lambda) and containerized (ECS) architectures
-- Implemented auto-scaling, caching (Redis), and load balancing strategies
-- Result: **40% reduction in AWS costs**
-
-**Tech:** AWS (Lambda, ECS, ECR, EC2, CloudFormation), Docker, Terraform, CloudWatch
+**Languages:** Python (7+ yrs), JavaScript/TypeScript, C#, SQL, Bash
 
 ---
 
 ## Education & Research
 
 ### M.Sc. in Electrical and Electronics Engineering
-**Bogazici University**, Istanbul | GPA: 3.63/4.00 | 2019 – 2022
+**Boğaziçi University**, Istanbul | GPA: 3.63/4.00 | 2019 – 2022
 
-*Thesis: Design and Implementation of a Response Retrieval and Re-ranking System*
-- Developed TF-IDF retrieval pipeline with Cross-Encoder re-ranking for conversational AI
-- Demonstrated superior performance of smaller transformer models in retrieval tasks
-- Extended the system for Question Answering, achieving strong results without task-specific tuning
+Thesis: *Design and Implementation of a Response Retrieval and Re-ranking System* — a two-stage TF-IDF + Cross-Encoder pipeline for conversational AI, showing smaller task-specific transformers outperforming larger general-purpose ones on retrieval. Extended for open-domain QA without task-specific fine-tuning. Full write-up: [case study](./case-studies/response-retrieval-reranking.md).
+
+Related published research: *Intent Classification with Short Sentences in Agglutinative Languages* (2020), on intent detection challenges in morphologically rich languages such as Turkish.
 
 ### B.Sc. in Electrical and Electronics Engineering
-**Bogazici University**, Istanbul | 2011 – 2017
+**Boğaziçi University**, Istanbul | 2011 – 2017
 
-- Ranked **116th** in National University Entrance Exam (**Top 0.01%**, 2011)
-- Team Captain, Mediterranean Math Olympics (2008)
-
----
-
-## Certifications & Courses
-
-| Year | Certification | Provider |
-|---|---|---|
-| 2020 | Natural Language Processing in TensorFlow | Coursera |
-| 2017 | Machine Learning Certificate | Stanford University (Coursera) |
+Ranked 116th in the national university entrance exam — top 0.01% of ~1.8M candidates (2011).
 
 ---
 
-## Publications
+## Recognition
 
-- **Intent Classification with Short Sentences in Agglutinative Languages** (2020)
-  - Research on handling the unique NLP challenges of morphologically rich languages for intent detection systems
-- **Design and Implementation of a Response Retrieval and Re-ranking System** (2022)
-  - Master's thesis on two-stage retrieval with TF-IDF and Cross-Encoder re-ranking for conversational AI
-
----
-
-## What I'm Learning
-
-I'm a continuous learner. Here are areas I'm currently exploring and deepening:
-
-- **Agentic AI** — Multi-agent systems, tool use, and autonomous workflows (LangGraph, CrewAI, PydanticAI, Claude Code, Codex)
-- **Advanced RAG** — Query decomposition, hybrid search, re-ranking strategies, and evaluation frameworks (RAGAS)
-- **Fine-tuning LLMs** — LoRA, QLoRA, PEFT techniques for domain-specific model adaptation
-- **MLOps** — Model serving, A/B testing, monitoring in production (MLflow, BentoML)
-- **System Design** — Distributed systems patterns for ML-heavy architectures
-
----
-
-## Achievements
-
-- Employee of the Month — **February 2022** and **February 2023** at Spotzer Digital
-- Ranked **116th** in National University Entrance Exam (Top 0.01% out of ~1.8M candidates, 2011)
-- Team Captain at **Mediterranean Math Olympics** (2008)
-- Volunteer at **Amsterdam Art Week 2023** for Amsterdam Art Foundation
-- Organized charity events for war victims from several countries
+- Ranked 116th nationally (top 0.01% of ~1.8M candidates), Turkish university entrance exam, 2011
+- Employee of the Month, Spotzer Digital (Feb 2022, Feb 2023)
+- Machine Learning Certificate, Stanford University (Coursera, 2017); Natural Language Processing in TensorFlow (Coursera, 2020)
 
 ---
 
 ## Get in Touch
 
-I'm always open to discussing AI engineering, NLP research, or potential collaborations.
+Open to Lead/Staff AI Engineer roles and interesting technical conversations.
 
 - **Email:** [can.deveci@icloud.com](mailto:can.deveci@icloud.com)
 - **LinkedIn:** [linkedin.com/in/can-deveci](https://linkedin.com/in/can-deveci/)
