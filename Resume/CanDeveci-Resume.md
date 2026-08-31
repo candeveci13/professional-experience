@@ -47,13 +47,13 @@
 
 ## **Skills**
 
-**Core, daily use**: Python, LangChain, LangGraph, PyTorch, Hugging Face Transformers, OpenAI & Anthropic APIs, Milvus, AWS (Lambda, ECS, ECR, DynamoDB), Docker
+**Core, daily use**: Python, LangChain, LangGraph, PyTorch, Hugging Face Transformers, OpenAI & Anthropic APIs, Milvus, AWS (Lambda, ECS, ECR, DynamoDB), Azure Cloud, Docker
 
 **Production experience**: FastAPI, Next.js, React (Redux, Context API), MSSQL, DynamoDB, Redis, Elasticsearch, Terraform, PyTest, CloudWatch
 
 **NLP fundamentals**: BERT, RoBERTa, T5, BART, sentence embeddings, TF-IDF, cross-encoder re-ranking
 
-**Applied, less deep**: CrewAI, PydanticAI, DSPy, LlamaIndex, Pinecone, GitHub Actions, Sentry, GraphQL, OAuth 2.0, Azure Cloud (*light exposure*)
+**Applied, less deep**: CrewAI, PydanticAI, DSPy, LlamaIndex, Pinecone, GitHub Actions, Sentry, GraphQL, OAuth 2.0
 
 **Day-to-day agentic tooling**: Claude Code, Cursor, MCP-based workflows
 

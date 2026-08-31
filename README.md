@@ -78,10 +78,10 @@ Grouped by how deep the experience actually goes — not everything I've touched
 
 | Depth | Technologies |
 |---|---|
-| **Core, daily use** | Python, LangChain / LangGraph, PyTorch, Hugging Face Transformers, OpenAI & Anthropic APIs, Milvus, AWS (Lambda, ECS, ECR, DynamoDB), Docker |
+| **Core, daily use** | Python, LangChain / LangGraph, PyTorch, Hugging Face Transformers, OpenAI & Anthropic APIs, Milvus, AWS (Lambda, ECS, ECR, DynamoDB), Azure Cloud, Docker |
 | **Production experience** | FastAPI, Next.js, React, PostgreSQL/MSSQL, Redis, Elasticsearch, Terraform, PyTest, CloudWatch |
 | **NLP fundamentals** | BERT, RoBERTa, T5/BART, sentence embeddings, TF-IDF, cross-encoder re-ranking |
-| **Applied, less deep** | CrewAI, PydanticAI, DSPy, LlamaIndex, Pinecone, GitHub Actions, Sentry, Azure Cloud (*light exposure*) |
+| **Applied, less deep** | CrewAI, PydanticAI, DSPy, LlamaIndex, Pinecone, GitHub Actions, Sentry |
 | **Day-to-day agentic tooling** | Claude Code, Cursor, MCP-based workflows — used daily for engineering, not the subject of my expertise |
 
 **Languages:** Python (7+ yrs), JavaScript/TypeScript, C#, SQL, Bash
