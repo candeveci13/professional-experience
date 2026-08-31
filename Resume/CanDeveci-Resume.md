@@ -18,13 +18,14 @@
 **Lead AI Engineer**
 *Spotzer Digital* | *March 2021 – Present*
 
-- Own the company's LLM and NLP roadmap: RAG pipelines, agentic content workflows, and classification systems behind ad targeting
+- **Lead the 22-person technical team**, owning AI engineering direction, architecture decisions, and delivery standards across the company's platform
+- Own the AI/NLP roadmap with product and executive stakeholders: RAG pipelines, agentic content workflows, and classification systems behind ad targeting
 - Built a context-aware website content generation system (RAG, LangChain, Milvus), eliminating **~$120K/year** in prior manual/agency content costs
 - Redesigned AWS infrastructure (Lambda, ECS, ECR, DynamoDB), cutting monthly compute spend by **~40%**
 - Built AI-powered social post generation, review, and publishing pipeline (GPT-4o, Claude, FastAPI)
 - Delivered ad taxonomy translation and business category detection ML systems
 - Built internal tools and customer-facing apps with Next.js, React, and Clerk authentication
-- Manage full development cycles (Agile/Scrum: Jira, Confluence), code reviews, and CI/CD (Azure DevOps)
+- Mentor engineers, run code reviews, and manage full development cycles (Agile/Scrum: Jira, Confluence, CI/CD via Azure DevOps)
 
 **NLP Engineer**
 *Sestek* | *October 2018 – February 2021*
@@ -52,7 +53,7 @@
 
 **NLP fundamentals**: BERT, RoBERTa, T5, BART, sentence embeddings, TF-IDF, cross-encoder re-ranking
 
-**Applied, less deep**: CrewAI, PydanticAI, DSPy, LlamaIndex, Pinecone, GitHub Actions, Sentry, GraphQL, OAuth 2.0
+**Applied, less deep**: CrewAI, PydanticAI, DSPy, LlamaIndex, Pinecone, GitHub Actions, Sentry, GraphQL, OAuth 2.0, Azure Cloud (*light exposure*)
 
 **Day-to-day agentic tooling**: Claude Code, Cursor, MCP-based workflows
 

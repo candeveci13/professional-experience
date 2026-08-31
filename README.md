@@ -8,7 +8,7 @@ Open to new opportunities · Permanent EU work authorization (no sponsorship req
 
 ---
 
-I build production LLM and NLP systems — the kind that go from research idea to something running in front of real users and real cost lines. Currently leading AI engineering at [Spotzer Digital](https://www.spotzerdigital.com/), where I own everything from RAG pipeline design to the AWS bill it runs on.
+I build production LLM and NLP systems — the kind that go from research idea to something running in front of real users and real cost lines. I lead Spotzer Digital's **22-person technical team** as **Lead AI Engineer**, owning AI engineering direction from RAG pipeline design to the AWS infrastructure it runs on.
 
 > **Full resume:** [`CanDeveci-Resume.pdf`](./Resume/CanDeveci-Resume.pdf)
 
@@ -43,10 +43,11 @@ I build production LLM and NLP systems — the kind that go from research idea t
 ### Lead AI Engineer — Spotzer Digital
 *March 2021 – Present | Amsterdam, Netherlands*
 
-- Own the company's LLM and NLP roadmap end to end: RAG pipelines, agentic content workflows, and the classification systems behind ad targeting
+- **Lead the 22-person technical team**, owning AI engineering direction and setting technical standards across LLM orchestration, vector search, and the infra it all runs on
+- Own the AI/NLP roadmap end to end with product and exec stakeholders: RAG pipelines, agentic content workflows, and the classification systems behind ad targeting
+- Mentor engineers and run code reviews across AI and full-stack, raising the team's production-readiness bar
 - Redesigned AWS infrastructure (Lambda, ECS, ECR, DynamoDB), cutting monthly compute spend by ~40%
 - Built and shipped internal tools and customer-facing apps with Next.js, React, and Clerk auth
-- Set technical direction across LLM orchestration, vector search, and the infra it all runs on
 
 **Stack:** Python, LangChain, LiteLLM, Milvus, OpenAI API, AWS (Lambda, ECS, ECR, DynamoDB, CloudWatch), Docker, Next.js, React, Azure DevOps
 
@@ -80,7 +81,7 @@ Grouped by how deep the experience actually goes — not everything I've touched
 | **Core, daily use** | Python, LangChain / LangGraph, PyTorch, Hugging Face Transformers, OpenAI & Anthropic APIs, Milvus, AWS (Lambda, ECS, ECR, DynamoDB), Docker |
 | **Production experience** | FastAPI, Next.js, React, PostgreSQL/MSSQL, Redis, Elasticsearch, Terraform, PyTest, CloudWatch |
 | **NLP fundamentals** | BERT, RoBERTa, T5/BART, sentence embeddings, TF-IDF, cross-encoder re-ranking |
-| **Applied, less deep** | CrewAI, PydanticAI, DSPy, LlamaIndex, Pinecone, GitHub Actions, Sentry |
+| **Applied, less deep** | CrewAI, PydanticAI, DSPy, LlamaIndex, Pinecone, GitHub Actions, Sentry, Azure Cloud (*light exposure*) |
 | **Day-to-day agentic tooling** | Claude Code, Cursor, MCP-based workflows — used daily for engineering, not the subject of my expertise |
 
 **Languages:** Python (7+ yrs), JavaScript/TypeScript, C#, SQL, Bash
