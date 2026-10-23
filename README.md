@@ -10,7 +10,7 @@ Open to new opportunities · Dutch citizen (no work visa or sponsorship required
 
 I build production LLM and NLP systems — the kind that go from research idea to something running in front of real users and real cost lines. I lead Spotzer Digital's **22-person technical team** as **Lead AI Engineer**, owning AI engineering direction from RAG pipeline design to the AWS infrastructure it runs on.
 
-> **Full resume:** [`CanDeveci-Resume.pdf`](./Resume/CanDeveci-Resume.pdf)
+> **Full CV:** [`CanDeveci-CV.pdf`](./CV/CanDeveci-CV.pdf)
 
 ---
 

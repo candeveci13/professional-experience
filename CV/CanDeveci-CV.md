@@ -1,4 +1,4 @@
-<!-- Source of truth for CanDeveci-Resume.pdf. Edit here, then regenerate the PDF — see Resume/README.md. -->
+<!-- Source of truth for CanDeveci-CV.pdf. Edit here, then regenerate the PDF — see CV/README.md. -->
 
 # **Can Deveci**
 **Lead AI Engineer**
