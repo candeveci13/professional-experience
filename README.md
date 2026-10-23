@@ -1,7 +1,7 @@
 # Can Deveci
 
 **Lead AI Engineer** | Amsterdam, Netherlands
-Open to new opportunities · Permanent EU work authorization (no sponsorship required)
+Open to new opportunities · Dutch citizen (no work visa or sponsorship required)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/can-deveci/)
 [![Email](https://img.shields.io/badge/Email-can.deveci%40icloud.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:can.deveci@icloud.com)

@@ -9,7 +9,7 @@
 - **Email**: [can.deveci@icloud.com](mailto:can.deveci@icloud.com)
 - **LinkedIn**: [linkedin.com/in/can-deveci/](https://linkedin.com/in/can-deveci/)
 - **Location**: Amsterdam, Netherlands
-- **Work Authorization**: Permanent EU Residency (no sponsorship required)
+- **Work Authorization**: Dutch citizen (no work visa or sponsorship required)
 
 ---
 
