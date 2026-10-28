@@ -51,7 +51,7 @@
 
 **Production experience**: FastAPI, Next.js, React (Redux, Context API), MSSQL, DynamoDB, Redis, Elasticsearch, Terraform, PyTest, CloudWatch
 
-**NLP fundamentals**: BERT, RoBERTa, T5, BART, sentence embeddings, TF-IDF, cross-encoder re-ranking
+**NLP fundamentals**: LLM fine-tuning, BERT, RoBERTa, T5, BART, sentence embeddings, TF-IDF, cross-encoder re-ranking
 
 **Applied, less deep**: CrewAI, PydanticAI, DSPy, LlamaIndex, Pinecone, GitHub Actions, Sentry, GraphQL, OAuth 2.0
 

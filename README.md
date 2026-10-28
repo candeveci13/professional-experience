@@ -8,7 +8,7 @@ Open to new opportunities · Dutch citizen (no work visa or sponsorship required
 
 ---
 
-I build production LLM and NLP systems — the kind that go from research idea to something running in front of real users and real cost lines. I am **Lead AI Engineer** at Spotzer Digital, where I lead AI development within a 22-person technical team, owning AI engineering direction from RAG pipeline design to the AWS infrastructure it runs on.
+I build production LLM and NLP systems, including fine-tuning LLMs — the kind that go from research idea to something running in front of real users and real cost lines. I am **Lead AI Engineer** at Spotzer Digital, where I lead AI development within a 22-person technical team, owning AI engineering direction from RAG pipeline design to the AWS infrastructure it runs on.
 
 > **Full CV:** [`CanDeveci-CV.pdf`](./CV/CanDeveci-CV.pdf)
 
@@ -80,7 +80,7 @@ Grouped by how deep the experience actually goes — not everything I've touched
 |---|---|
 | **Core, daily use** | Python, LangChain / LangGraph, PyTorch, Hugging Face Transformers, OpenAI & Anthropic APIs, Milvus, AWS (Lambda, ECS, ECR, DynamoDB), Azure Cloud, Docker |
 | **Production experience** | FastAPI, Next.js, React, PostgreSQL/MSSQL, Redis, Elasticsearch, Terraform, PyTest, CloudWatch |
-| **NLP fundamentals** | BERT, RoBERTa, T5/BART, sentence embeddings, TF-IDF, cross-encoder re-ranking |
+| **NLP fundamentals** | LLM fine-tuning, BERT, RoBERTa, T5/BART, sentence embeddings, TF-IDF, cross-encoder re-ranking |
 | **Applied, less deep** | CrewAI, PydanticAI, DSPy, LlamaIndex, Pinecone, GitHub Actions, Sentry |
 | **Day-to-day agentic tooling** | Claude Code, Cursor, MCP-based workflows — used daily for engineering, not the subject of my expertise |
 
