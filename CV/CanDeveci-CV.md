@@ -18,7 +18,7 @@
 **Lead AI Engineer**
 *Spotzer Digital* | *March 2021 – Present*
 
-- **Lead the 22-person technical team**, owning AI engineering direction, architecture decisions, and delivery standards across the company's platform
+- **Lead AI development within the 22-person technical team**, owning AI engineering direction, architecture decisions, and delivery standards for the company's AI systems
 - Own the AI/NLP roadmap with product and executive stakeholders: RAG pipelines, agentic content workflows, and classification systems behind ad targeting
 - Built a context-aware website content generation system (RAG, LangChain, Milvus), eliminating **~$120K/year** in prior manual/agency content costs
 - Redesigned AWS infrastructure (Lambda, ECS, ECR, DynamoDB), cutting monthly compute spend by **~40%**

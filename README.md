@@ -8,7 +8,7 @@ Open to new opportunities · Dutch citizen (no work visa or sponsorship required
 
 ---
 
-I build production LLM and NLP systems — the kind that go from research idea to something running in front of real users and real cost lines. I lead Spotzer Digital's **22-person technical team** as **Lead AI Engineer**, owning AI engineering direction from RAG pipeline design to the AWS infrastructure it runs on.
+I build production LLM and NLP systems — the kind that go from research idea to something running in front of real users and real cost lines. I am **Lead AI Engineer** at Spotzer Digital, where I lead AI development within a 22-person technical team, owning AI engineering direction from RAG pipeline design to the AWS infrastructure it runs on.
 
 > **Full CV:** [`CanDeveci-CV.pdf`](./CV/CanDeveci-CV.pdf)
 
@@ -43,7 +43,7 @@ I build production LLM and NLP systems — the kind that go from research idea t
 ### Lead AI Engineer — Spotzer Digital
 *March 2021 – Present | Amsterdam, Netherlands*
 
-- **Lead the 22-person technical team**, owning AI engineering direction and setting technical standards across LLM orchestration, vector search, and the infra it all runs on
+- **Lead AI development across the 22-person technical team**, owning AI engineering direction and setting technical standards for AI work across LLM orchestration, vector search, and the infra it all runs on
 - Own the AI/NLP roadmap end to end with product and exec stakeholders: RAG pipelines, agentic content workflows, and the classification systems behind ad targeting
 - Mentor engineers and run code reviews across AI and full-stack, raising the team's production-readiness bar
 - Redesigned AWS infrastructure (Lambda, ECS, ECR, DynamoDB), cutting monthly compute spend by ~40%
