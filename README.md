@@ -1,7 +1,7 @@
 # Can Deveci — Senior AI Engineer
 
-**Production LLM, RAG & NLP systems** | Amsterdam, Netherlands
-Open to new opportunities · Dutch citizen (no work visa or sponsorship required)
+**Production GenAI, LLM, RAG & NLP systems** | Amsterdam, Netherlands
+Open to **Senior AI Engineer**, **GenAI Engineer**, **LLM Engineer** and **Machine Learning Engineer** roles in Amsterdam and the Netherlands · Dutch citizen (no work visa or sponsorship required)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/can-deveci/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7863-4244)
@@ -9,7 +9,7 @@ Open to new opportunities · Dutch citizen (no work visa or sponsorship required
 
 ---
 
-I'm Can Deveci, a **Senior AI Engineer** in Amsterdam who builds production LLM, RAG (retrieval-augmented generation) and NLP systems, including LLM fine-tuning — the kind that go from research idea to something running in front of real users and real cost lines. At Spotzer Digital I lead AI development within a 22-person technical team, owning AI engineering direction from RAG pipeline design to the AWS infrastructure it runs on.
+I'm Can Deveci, a **Senior AI Engineer** in Amsterdam who builds production generative AI (GenAI), LLM, RAG (retrieval-augmented generation) and NLP systems, including agentic workflows and LLM fine-tuning — the kind that go from research idea to something running in front of real users and real cost lines. At Spotzer Digital I lead AI development within a 22-person technical team, owning AI engineering direction from RAG pipeline design to the AWS infrastructure it runs on.
 
 > **Full CV:** [Can Deveci's CV (PDF)](./CV/Can-Deveci-Senior-AI-Engineer-CV.pdf) · [Markdown version](./CV/Can-Deveci-Senior-AI-Engineer-CV.md)
 
@@ -36,6 +36,17 @@ I'm Can Deveci, a **Senior AI Engineer** in Amsterdam who builds production LLM,
 
 **Ad taxonomy & business category classification** — ML classification mapping businesses to advertising categories at platform scale.
 `Python · PyTorch`
+
+---
+
+## What I build
+
+- **Generative AI (GenAI) & LLM applications** — LLM-powered content generation and publishing pipelines on GPT-4o, Claude and the OpenAI API, with prompt engineering tuned per content type.
+- **Agentic workflows** — agentic content workflows with generation, moderation and brand-voice checks before anything is published; LLM orchestration with LangChain / LangGraph.
+- **RAG & retrieval** — retrieval-augmented generation on Milvus vector search, plus the two-stage TF-IDF + Cross-Encoder re-ranking from my thesis.
+- **LLM output quality gates** — scoring generated content before it is eligible to publish, so "cheaper than a human" doesn't mean "worse than a human".
+- **Production deployment & cloud** — AWS (Lambda, ECS, ECR, DynamoDB, CloudWatch monitoring), Azure Cloud, Docker, and CI/CD via Azure DevOps; ~40% lower compute spend.
+- **APIs & backend** — Python and FastAPI services, with Next.js / React front ends.
 
 ---
 
@@ -79,7 +90,7 @@ Grouped by how deep the experience actually goes — not everything I've touched
 
 | Depth | Technologies |
 |---|---|
-| **Core, daily use** | Python, LangChain / LangGraph, PyTorch, Hugging Face Transformers, OpenAI & Anthropic APIs, Milvus, AWS (Lambda, ECS, ECR, DynamoDB), Azure Cloud, Docker |
+| **Core, daily use** | Python, LangChain / LangGraph, agentic workflows, prompt engineering, PyTorch, Hugging Face Transformers, OpenAI & Anthropic APIs, Milvus, AWS (Lambda, ECS, ECR, DynamoDB), Azure Cloud, Docker |
 | **Production experience** | FastAPI, Next.js, React, PostgreSQL/MSSQL, Redis, Elasticsearch, Terraform, PyTest, CloudWatch |
 | **NLP fundamentals** | LLM fine-tuning, BERT, RoBERTa, T5/BART, sentence embeddings, TF-IDF, cross-encoder re-ranking |
 | **Applied, less deep** | CrewAI, PydanticAI, DSPy, LlamaIndex, Pinecone, GitHub Actions, Sentry |
@@ -115,7 +126,7 @@ Ranked 116th in the national university entrance exam — top 0.01% of ~1.8M can
 
 ## Get in Touch
 
-Open to Senior/Staff AI Engineer roles and interesting technical conversations.
+Open to Senior/Staff roles as an AI Engineer, GenAI Engineer, LLM Engineer, AI Backend Engineer or Machine Learning Engineer — in Amsterdam and the wider Netherlands — and to interesting technical conversations.
 
 - **Email:** [can.deveci@icloud.com](mailto:can.deveci@icloud.com)
 - **LinkedIn:** [linkedin.com/in/can-deveci](https://linkedin.com/in/can-deveci/)

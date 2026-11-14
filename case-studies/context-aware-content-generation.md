@@ -3,6 +3,7 @@
 *Case study by [Can Deveci](../README.md), Senior AI Engineer — a production retrieval-augmented generation (RAG) pipeline that writes SEO-ready website copy for small-business clients and publishes it through the existing CMS.*
 
 **Role:** Senior AI Engineer, Spotzer Digital · **Status:** In production
+**Stack:** Python · LangChain · OpenAI API · Milvus · AWS Lambda · DynamoDB
 **Impact:** ~$120K/year in content-production costs eliminated, measured against prior manual/agency-produced copy across the client site portfolio
 
 ---

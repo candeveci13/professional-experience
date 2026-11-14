@@ -3,6 +3,7 @@
 *Master's thesis case study by [Can Deveci](../README.md), Boğaziçi University — a two-stage retrieve-then-rerank pipeline (TF-IDF candidate retrieval, Cross-Encoder re-ranking) for conversational AI and open-domain question answering.*
 
 **Role:** Master's Thesis, Boğaziçi University (2019–2022)
+**Stack:** Python · PyTorch · Hugging Face Transformers · Cross-Encoders
 **Finding:** A smaller, task-specific re-ranking model outperformed larger general-purpose alternatives on conversational response retrieval, and the approach extended to open-domain QA without task-specific fine-tuning.
 **Related publication:** *Intent Classification with Short Sentences in Agglutinative Languages* (2020) — adjacent NLP work from the same research period, on intent detection in morphologically rich languages such as Turkish.
 
