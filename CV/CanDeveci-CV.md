@@ -1,7 +1,7 @@
 <!-- Source of truth for CanDeveci-CV.pdf. Edit here, then regenerate the PDF — see CV/README.md. -->
 
 # **Can Deveci**
-**Lead AI Engineer**
+**Senior AI Engineer**
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## **Professional Experience**
 
-**Lead AI Engineer**
+**Senior AI Engineer**
 *Spotzer Digital* | *March 2021 – Present*
 
 - **Lead AI development within the 22-person technical team**, owning AI engineering direction, architecture decisions, and delivery standards for the company's AI systems

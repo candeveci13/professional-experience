@@ -1,6 +1,6 @@
-# Can Deveci
+# Can Deveci — Senior AI Engineer
 
-**Lead AI Engineer** | Amsterdam, Netherlands
+**Production LLM, RAG & NLP systems** | Amsterdam, Netherlands
 Open to new opportunities · Dutch citizen (no work visa or sponsorship required)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/can-deveci/)
@@ -9,21 +9,21 @@ Open to new opportunities · Dutch citizen (no work visa or sponsorship required
 
 ---
 
-I build production LLM and NLP systems, including fine-tuning LLMs — the kind that go from research idea to something running in front of real users and real cost lines. I am **Lead AI Engineer** at Spotzer Digital, where I lead AI development within a 22-person technical team, owning AI engineering direction from RAG pipeline design to the AWS infrastructure it runs on.
+I'm Can Deveci, a **Senior AI Engineer** in Amsterdam who builds production LLM, RAG (retrieval-augmented generation) and NLP systems, including LLM fine-tuning — the kind that go from research idea to something running in front of real users and real cost lines. At Spotzer Digital I lead AI development within a 22-person technical team, owning AI engineering direction from RAG pipeline design to the AWS infrastructure it runs on.
 
-> **Full CV:** [`CanDeveci-CV.pdf`](./CV/CanDeveci-CV.pdf)
+> **Full CV:** [Can Deveci's CV (PDF)](./CV/CanDeveci-CV.pdf) · [Markdown version](./CV/CanDeveci-CV.md)
 
 ---
 
 ## Impact at a glance
 
-- **~$120K/year in content costs eliminated** — replaced manual/agency-produced website copy with an LLM content pipeline across the client site portfolio. → [case study](./case-studies/context-aware-content-generation.md)
+- **~$120K/year in content costs eliminated** — replaced manual/agency-produced website copy with an LLM content pipeline across the client site portfolio. → [RAG content generation case study](./case-studies/context-aware-content-generation.md)
 - **~40% lower monthly AWS spend** — measured on the compute bill before/after migrating from EC2-based hosting to serverless (Lambda) and containerized (ECS) infrastructure.
-- **Master's thesis retrieval system** outperformed larger general-purpose models with a smaller, task-specific architecture. → [case study](./case-studies/response-retrieval-reranking.md)
+- **Master's thesis retrieval system** outperformed larger general-purpose models with a smaller, task-specific architecture. → [retrieval & re-ranking thesis case study](./case-studies/response-retrieval-reranking.md)
 
 ---
 
-## Selected work
+## Selected AI engineering projects & case studies
 
 **[Context-aware website content generation](./case-studies/context-aware-content-generation.md)** — RAG pipeline combining business metadata, industry context, and competitor analysis to generate SEO-ready copy, wired into the company CMS for automated publishing.
 `Python · LangChain · OpenAI API · Milvus · AWS Lambda · DynamoDB`
@@ -41,7 +41,7 @@ I build production LLM and NLP systems, including fine-tuning LLMs — the kind 
 
 ## Experience
 
-### Lead AI Engineer — Spotzer Digital
+### Senior AI Engineer — Spotzer Digital
 *March 2021 – Present | Amsterdam, Netherlands*
 
 - **Lead AI development across the 22-person technical team**, owning AI engineering direction and setting technical standards for AI work across LLM orchestration, vector search, and the infra it all runs on
@@ -115,7 +115,7 @@ Ranked 116th in the national university entrance exam — top 0.01% of ~1.8M can
 
 ## Get in Touch
 
-Open to Lead/Staff AI Engineer roles and interesting technical conversations.
+Open to Senior/Staff AI Engineer roles and interesting technical conversations.
 
 - **Email:** [can.deveci@icloud.com](mailto:can.deveci@icloud.com)
 - **LinkedIn:** [linkedin.com/in/can-deveci](https://linkedin.com/in/can-deveci/)

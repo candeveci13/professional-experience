@@ -1,4 +1,6 @@
-# Response retrieval & re-ranking for conversational AI
+# Response retrieval & re-ranking for conversational AI: TF-IDF + Cross-Encoder
+
+*Master's thesis case study by [Can Deveci](../README.md), Boğaziçi University — a two-stage retrieve-then-rerank pipeline (TF-IDF candidate retrieval, Cross-Encoder re-ranking) for conversational AI and open-domain question answering.*
 
 **Role:** Master's Thesis, Boğaziçi University (2019–2022)
 **Finding:** A smaller, task-specific re-ranking model outperformed larger general-purpose alternatives on conversational response retrieval, and the approach extended to open-domain QA without task-specific fine-tuning.
@@ -40,3 +42,7 @@ The two-stage TF-IDF + Cross-Encoder pipeline retrieved and ranked conversationa
 - **I'd push harder on error analysis by candidate difficulty**, rather than aggregate accuracy alone — understanding *which* candidates the Cross-Encoder still got wrong after re-ranking would have pointed more directly at where the model's inductive biases were failing.
 - **I'd test more than one classical Stage-1 retriever.** TF-IDF was a reasonable, well-understood choice, but comparing it against BM25 or a lightweight dense retriever as the first stage would have clarified how much of the final performance was coming from Stage 1's recall versus Stage 2's precision.
 - **I'd design the QA generalization test with a harder distribution shift.** The QA extension showed the architecture wasn't purely memorizing dialogue-specific patterns, but a more deliberately out-of-domain QA benchmark would have made that generalization claim more conclusive.
+
+---
+
+**More from Can Deveci:** [Portfolio & experience](../README.md) · [CV (PDF)](../CV/CanDeveci-CV.pdf) · [Related case study: context-aware website content generation with RAG](./context-aware-content-generation.md)

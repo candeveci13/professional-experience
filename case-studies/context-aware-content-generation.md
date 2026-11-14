@@ -1,6 +1,8 @@
-# Context-aware website content generation
+# Context-aware website content generation with RAG, LangChain and Milvus
 
-**Role:** Lead AI Engineer, Spotzer Digital · **Status:** In production
+*Case study by [Can Deveci](../README.md), Senior AI Engineer — a production retrieval-augmented generation (RAG) pipeline that writes SEO-ready website copy for small-business clients and publishes it through the existing CMS.*
+
+**Role:** Senior AI Engineer, Spotzer Digital · **Status:** In production
 **Impact:** ~$120K/year in content-production costs eliminated, measured against prior manual/agency-produced copy across the client site portfolio
 
 ---
@@ -54,3 +56,7 @@ Manual/agency content production for this volume of sites was the prior cost bas
 - **I'd invest in automated quality scoring earlier.** Early on, review leaned more on spot checks than a systematic rubric; formalizing scoring sooner would have caught category-specific failure modes faster.
 - **I'd design the competitor-signal pipeline for staleness from day one.** Scraped competitor context degrades as competitor sites change; a scheduled refresh should have been part of the initial design rather than added after the fact.
 - **I'd separate "retrieval quality" evaluation from "generation quality" evaluation from the start.** Early debugging conflated the two — a lot of investigation time went into generation prompts when the actual issue was retrieval returning weakly relevant context.
+
+---
+
+**More from Can Deveci:** [Portfolio & experience](../README.md) · [CV (PDF)](../CV/CanDeveci-CV.pdf) · [Related case study: response retrieval & re-ranking (TF-IDF + Cross-Encoder)](./response-retrieval-reranking.md)
