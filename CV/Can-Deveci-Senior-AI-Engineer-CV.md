@@ -1,4 +1,4 @@
-<!-- Source of truth for CanDeveci-CV.pdf. Edit here, then regenerate the PDF — see CV/README.md. -->
+<!-- Source of truth for Can-Deveci-Senior-AI-Engineer-CV.pdf. Edit here, then regenerate with the VS Code "Markdown PDF" (yzane) extension. The PDF title is taken from THIS FILENAME, so keep it descriptive. -->
 
 # **Can Deveci**
 **Senior AI Engineer**

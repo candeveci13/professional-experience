@@ -11,7 +11,7 @@ Open to new opportunities · Dutch citizen (no work visa or sponsorship required
 
 I'm Can Deveci, a **Senior AI Engineer** in Amsterdam who builds production LLM, RAG (retrieval-augmented generation) and NLP systems, including LLM fine-tuning — the kind that go from research idea to something running in front of real users and real cost lines. At Spotzer Digital I lead AI development within a 22-person technical team, owning AI engineering direction from RAG pipeline design to the AWS infrastructure it runs on.
 
-> **Full CV:** [Can Deveci's CV (PDF)](./CV/CanDeveci-CV.pdf) · [Markdown version](./CV/CanDeveci-CV.md)
+> **Full CV:** [Can Deveci's CV (PDF)](./CV/Can-Deveci-Senior-AI-Engineer-CV.pdf) · [Markdown version](./CV/Can-Deveci-Senior-AI-Engineer-CV.md)
 
 ---
 

@@ -45,4 +45,4 @@ The two-stage TF-IDF + Cross-Encoder pipeline retrieved and ranked conversationa
 
 ---
 
-**More from Can Deveci:** [Portfolio & experience](../README.md) · [CV (PDF)](../CV/CanDeveci-CV.pdf) · [Related case study: context-aware website content generation with RAG](./context-aware-content-generation.md)
+**More from Can Deveci:** [Portfolio & experience](../README.md) · [CV (PDF)](../CV/Can-Deveci-Senior-AI-Engineer-CV.pdf) · [Related case study: context-aware website content generation with RAG](./context-aware-content-generation.md)

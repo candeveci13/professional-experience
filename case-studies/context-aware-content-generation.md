@@ -59,4 +59,4 @@ Manual/agency content production for this volume of sites was the prior cost bas
 
 ---
 
-**More from Can Deveci:** [Portfolio & experience](../README.md) · [CV (PDF)](../CV/CanDeveci-CV.pdf) · [Related case study: response retrieval & re-ranking (TF-IDF + Cross-Encoder)](./response-retrieval-reranking.md)
+**More from Can Deveci:** [Portfolio & experience](../README.md) · [CV (PDF)](../CV/Can-Deveci-Senior-AI-Engineer-CV.pdf) · [Related case study: response retrieval & re-ranking (TF-IDF + Cross-Encoder)](./response-retrieval-reranking.md)
