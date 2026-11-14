@@ -4,6 +4,7 @@
 Open to new opportunities · Dutch citizen (no work visa or sponsorship required)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/can-deveci/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7863-4244)
 [![Email](https://img.shields.io/badge/Email-can.deveci%40icloud.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:can.deveci@icloud.com)
 
 ---
@@ -118,4 +119,5 @@ Open to Lead/Staff AI Engineer roles and interesting technical conversations.
 
 - **Email:** [can.deveci@icloud.com](mailto:can.deveci@icloud.com)
 - **LinkedIn:** [linkedin.com/in/can-deveci](https://linkedin.com/in/can-deveci/)
+- **ORCID:** [0000-0002-7863-4244](https://orcid.org/0000-0002-7863-4244)
 - **Location:** Amsterdam, Netherlands

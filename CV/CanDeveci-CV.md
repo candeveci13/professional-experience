@@ -8,6 +8,7 @@
 ## **Contact Information**
 - **Email**: [can.deveci@icloud.com](mailto:can.deveci@icloud.com)
 - **LinkedIn**: [linkedin.com/in/can-deveci/](https://linkedin.com/in/can-deveci/)
+- **ORCID**: [0000-0002-7863-4244](https://orcid.org/0000-0002-7863-4244)
 - **Location**: Amsterdam, Netherlands
 - **Work Authorization**: Dutch citizen (no work visa or sponsorship required)
 
